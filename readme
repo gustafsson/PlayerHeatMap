@@ -7,5 +7,5 @@ Input text files should be several rows on the form "X Y VALUE", like so
 12 35 58
 13 35 60
 
-This describes a 2x2 matrix [56 40;58 60] typically written by some measurement script.
+This describes a 2x2 matrix [56 40;58 60] typically written by some measurement script. The original measurement was the number of players that our server could handle given different constraints and parameters, hence the name playerheatmap.
 
