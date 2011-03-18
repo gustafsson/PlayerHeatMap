@@ -1,0 +1,11 @@
+PlayerHeatMap is a simple script that prints test results in a colored matrix and saves it as a png, using Octave.
+
+Input text files should be several rows on the form "X Y VALUE", like so
+
+12 34 56
+13 34 40
+12 35 58
+13 35 60
+
+This describes a 2x2 matrix [56 40;58 60] typically written by some measurement script.
+
